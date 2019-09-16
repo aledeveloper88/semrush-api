@@ -85,7 +85,8 @@
       "export_columns": "columns",
       "export_escape": "boolean",
       "display_sort": "string",
-      "display_limit": "integer"
+      "display_limit": "integer",
+      "display_daily": "integer"
     },
     "preset_fields": {
       "export_escape": "1"
